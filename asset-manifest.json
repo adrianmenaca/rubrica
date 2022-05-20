@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/actividad3corte/static/css/main.2ac9c254.css",
-    "main.js": "/actividad3corte/static/js/main.e4947041.js",
-    "index.html": "/actividad3corte/index.html",
-    "main.2ac9c254.css.map": "/actividad3corte/static/css/main.2ac9c254.css.map",
-    "main.e4947041.js.map": "/actividad3corte/static/js/main.e4947041.js.map"
+    "main.css": "/rubrica/static/css/main.2ac9c254.css",
+    "main.js": "/rubrica/static/js/main.f41010fa.js",
+    "index.html": "/rubrica/index.html",
+    "main.2ac9c254.css.map": "/rubrica/static/css/main.2ac9c254.css.map",
+    "main.f41010fa.js.map": "/rubrica/static/js/main.f41010fa.js.map"
   },
   "entrypoints": [
     "static/css/main.2ac9c254.css",
-    "static/js/main.e4947041.js"
+    "static/js/main.f41010fa.js"
   ]
 }
